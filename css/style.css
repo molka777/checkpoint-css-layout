@@ -1,0 +1,121 @@
+body {
+  letter-spacing: 3px;
+
+}
+
+
+
+
+
+.logo {
+  float: right;
+  height: 130px;
+  width: 290px;
+
+}
+
+.bloc1 {
+  width: 60%;
+  text-align: justify;
+  color: #40531e;
+  font-size: small;
+  font: 10px sans-serif;
+  padding: 0px 10px;
+  margin-top: 100px;
+  margin-left: 260px;
+
+}
+
+.bloc2 {
+  width: 30%;
+  color: #40531e;
+  font: sans-serif;
+  padding: 0px 10px;
+
+
+}
+
+.description {
+  width: 30%;
+  text-align: justify;
+  color: #40531e;
+  font: 10px sans-serif;
+}
+
+
+
+
+.video {
+  text-align: center;
+  font: 20px sans-serif;
+}
+
+
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  color: #40531e;
+}
+
+.paragraph {
+  text-indent: 50px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 15px;
+  text-align: center;
+
+}
+
+.flex-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #40531e;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #8bbb37;
+}
+
+.contact {
+  width: 50%;
+  color: #40531e;
+  margin-left: 350px;
+  font: 20px sans-serif;
+
+
+}
+
+.links {
+  width: 100%;
+}
+
+.links a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font: 20px system-ui;
+  margin-left: 9%;
+}
